@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Datologyai as founding member of technical staff.
+Joined Datologyai as a founding member of technical staff.

@@ -384,16 +384,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-joined-meta-ai-in-california-as-an-ai-resident-i-will-be-working-with-ari-morcos-s-team",
+          title: 'I joined Meta AI in California as an AI Resident. I will be...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-paper-accepted-at-aaai2023-progress-and-limitations-of-deep-networks-to-recognize-objects-in-unusual-poses",
+          title: 'New paper accepted at AAAI2023 (Progress and limitations of deep networks to recognize...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-completed-my-bsc-at-university-of-khartoum-electrical-engineering-minor-in-software-engineering",
+          title: 'I completed my BSc at University of Khartoum / Electrical Engineering (minor in...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-semdedup-data-efficient-learning-at-web-scale-through-semantic-deduplication",
+          title: 'New preprint (SemDeDup: Data-efficient learning at web-scale through semantic deduplication).',
+          description: "",
+          section: "News",},{id: "news-joined-datologyai-as-founding-member-of-technical-staff",
+          title: 'Joined Datologyai as founding member of technical staff.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

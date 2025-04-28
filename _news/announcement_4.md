@@ -1,8 +1,8 @@
 ---
 layout: post
-date: Mar 2023
+date: Jan 2023
 inline: true
 related_posts: false
 ---
 
-New preprint (SemDeDup: Data-efficient learning at web-scale through semantic deduplication).
+Our paper (SemDeDup: Data-efficient learning at web-scale through semantic deduplication) received the Best Paper Award @ The Multimodal Representation Learning Workshop at ICLR 2023.

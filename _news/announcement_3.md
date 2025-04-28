@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: Nov 2022
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+New paper accepted at AAAI2023 (Progress and limitations of deep networks to recognize objects in unusual poses).

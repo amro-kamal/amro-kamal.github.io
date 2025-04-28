@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed my BSc at University of Khartoum / Electrical Engineering (minor in software engineering)
+I completed my BSc at University of Khartoum / Electrical Engineering (major in software engineering)

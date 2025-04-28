@@ -43,8 +43,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-completed-my-bsc-at-university-of-khartoum-electrical-engineering-minor-in-software-engineering",
-          title: 'I completed my BSc at University of Khartoum / Electrical Engineering (minor in...',
+            },},{id: "news-i-completed-my-bsc-at-university-of-khartoum-electrical-engineering-major-in-software-engineering",
+          title: 'I completed my BSc at University of Khartoum / Electrical Engineering (major in...',
           description: "",
           section: "News",},{id: "news-i-joined-meta-ai-in-california-as-an-ai-resident-i-will-be-working-with-ari-morcos-s-team",
           title: 'I joined Meta AI in California as an AI Resident. I will be...',

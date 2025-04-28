@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.datologyai.com/'>Datologyai</a>  | 📍 Bay Area
+subtitle: <a href='https://www.datologyai.com/'>Datologyai</a> <img src="assets/img/datologiai.ico" width="20" height="23" style="padding-bottom:3px;"> | 📍 Bay Area
 
 profile:
   align: right

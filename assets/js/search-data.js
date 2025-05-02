@@ -56,7 +56,7 @@ ninja.data = [{
           title: 'Our paper (SemDeDup: Data-efficient learning at web-scale through semantic deduplication) received the Best...',
           description: "",
           section: "News",},{id: "news-joined-datologyai-as-a-founding-member-of-technical-staff",
-          title: 'Joined Datologyai as a founding member of technical staff.',
+          title: 'Joined DatologyAI as a founding member of technical staff.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
